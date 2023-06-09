@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(20, 57, 23);
+
+}
+#div1{
+    color: hsl(349, 82%, 36%);
+}
+.menu {
+
+    display:flex;
+    justify-content: center;
+   
+}
+.menu li{
+margin-right: 15px;
+list-style: none;
+
+}
+#div2{
+
+    color: brown;
+}
+#div3{
+
+    color: white;
+}
